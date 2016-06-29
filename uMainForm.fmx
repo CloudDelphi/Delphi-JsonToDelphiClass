@@ -8,6 +8,7 @@ object MainForm: TMainForm
   Padding.Top = 3.000000000000000000
   Padding.Right = 3.000000000000000000
   Padding.Bottom = 3.000000000000000000
+  Position = ScreenCenter
   StyleBook = StyleBook1
   FormFactor.Width = 340
   FormFactor.Height = 480
